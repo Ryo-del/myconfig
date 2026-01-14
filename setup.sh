@@ -14,6 +14,7 @@ git config --global user.email "sackmycock11@fuck.com"
 sudo apt install golang -y
 
 #install fsociety
+#python2 /home/kali/.fsociety/fsociety.py
 bash <(wget -qO- https://git.io/vAtmB) 
 
 #install fastfetch
