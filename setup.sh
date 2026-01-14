@@ -19,6 +19,10 @@ bash <(wget -qO- https://git.io/vAtmB)
 #install fastfetch
 sudo apt install fastfetch -y
 
+#install telegram
+sudo apt install telegram-desktop -y
+
+
 #screen refresh
 xrandr --output HDMI-A-0 --mode 1920x1080 --rate 144.00
 
